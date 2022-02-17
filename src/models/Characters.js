@@ -30,24 +30,6 @@
         type: "h",
         },
         {
-        id: "super_buu",
-        name: "Super Majin Buu",
-        description: "Enemigo en la saga de Buu en DB Z",
-        type: "h",
-        },
-        {
-        id: "evil_buu",
-        name: "Evil Majin Buu",
-        description: "Enemigo en la saga de Buu en DB Z",
-        type: "h",
-        },
-        {
-        id: "kid_buu",
-        name: "Kid Majin Buu",
-        description: "Enemigo en la saga de Buu en DB Z",
-        type: "h",
-        },
-        {
         id: "piccolo",
         name: "Piccolo",
         description: "Enemigo y despues amigo de Goku",
