@@ -11,9 +11,9 @@ const Card = ({name, description, type, id}) => {
         style={{
             width: 200,
             }}>
-            <img className='card-img-top' src={path} alt={id} />
+            <img loading='lazy' className='card-img-top' src={path} alt={id} />
             <div className='card-bodu'>
-            <h3 className='card-title'>{name}</h3>
+            <h2 className='card-title'>{name}</h2>
             <p className='card-text'>
                 <Link className="card-link" to={`/character/${id}`}> VER MAS...
                 </Link>
